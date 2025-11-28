@@ -47,7 +47,7 @@ TaskCharge-AI/
 
 
 ## 🖼 Architecture Diagram
-![Architecture](taskchargeai_architecture_diagram.png)
+![Architecture](Taskchargeai_architecture_diagram.png)
 
 ---
 
