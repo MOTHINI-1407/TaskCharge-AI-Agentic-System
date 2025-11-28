@@ -1,35 +1,97 @@
-# TaskCharge AI — Agentic Automation System
+# TaskCharge AI — Agentic Automation System  
+### 🚀 Google GenAI Capstone Project (2024–25)
 
-### 🚀 Google GenAI Capstone Project 2025
-This project was created as part of the Google Generative AI Capstone Challenge.  
-It showcases an end-to-end agentic workflow system using LLM reasoning, memory, tool calling, and automation.
+TaskCharge AI is an end-to-end **agentic automation system** designed as part of the **Google Generative AI Capstone Project**.  
+It uses modern LLM capabilities — **reasoning, memory, retrieval, tool calling, and workflow automation** — to execute tasks intelligently and independently.
 
-TaskCharge AI is an LLM-driven agentic system designed to automate daily tasks using 
-reasoning, memory, retrieval, and safe tool-calling. This project was created for the 
-Generative AI Challenge.
+This repository contains the full Kaggle notebook, architecture explanation, and implementation details of the project.
 
-## Features
+---
+
+## 🌟 Key Highlights (Why This Project Matters)
+- Developed for the **Google GenAI Capstone**, a globally recognized program  
+- Demonstrates **real-world agentic architecture**  
+- Showcases **modular, scalable, reusable agent workflows**  
+- Uses **LLM reasoning + tools + memory** to automate tasks  
+- Professionally structured project suitable for resumes & interviews  
+
+---
+
+## 📁 Project Structure
+TaskCharge-AI/
+│
+├── notebook.ipynb # Kaggle notebook with full code and workflow
+├── README.md # Project documentation
+├── LICENSE # MIT License
+└── .gitignore # Python gitignore settings
+
+---
+
+## 🧠 Features
+- Agent reasoning pipeline  
+- Memory-enabled workflow execution  
+- Tool-calling integration  
 - Modular agent design  
-- Reusable workflows  
-- Tool calling and memory integration  
-- Fully reproducible Kaggle notebook  
 - End-to-end automation demo  
+- Clean, reproducible notebook  
 
-## Notebook
-The full Kaggle notebook used for analysis and agent implementation is included in this repository.
+---
 
-## Dataset
-The dataset is available on Kaggle.  
-(You can add your Kaggle dataset link here)
+## 🧩 Architecture Overview
+**Core Components:**
+- **LLM Engine** → Performs reasoning chains  
+- **Memory Layer** → Maintains state across tasks  
+- **Tool Layer** → Executes external actions  
+- **Workflow Controller** → Orchestrates the steps  
+- **I/O Handlers** → Manage data and responses  
 
-## Technologies Used
+(Add your diagram here if you have one.)
+
+---
+
+## 📊 Notebook
+The full Kaggle notebook used for analysis, development, and evaluation is included:
+
+👉 `notebook.ipynb`
+
+---
+
+## 📂 Dataset
+Dataset used in this capstone project can be found on Kaggle.  
+(Insert your Kaggle dataset link here)
+
+---
+
+## 🔧 Tech Stack
 - Python  
-- Jupyter Notebook  
-- OpenAI / Agentic tools  
-- Kaggle environment  
+- Jupyter / Kaggle Notebooks  
+- OpenAI / Agentic Tools  
+- Data processing modules  
+- Workflow orchestration logic  
 
-## How to Run
-1. Download the notebook  
-2. Open it in Jupyter / Kaggle  
-3. Install dependencies if needed  
+---
+
+## 🚀 How to Run
+1. Clone the repository  
+2. Open the notebook  
+3. Install required dependencies  
 4. Run all cells  
+5. Follow instructions inside the notebook  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
+
+---
+
+## 💼 About the Capstone
+This project was created for the **Google GenAI Capstone Challenge**, demonstrating agentic system design, reasoning-based automation, and reproducible workflow execution.
+
+---
+
+## 🙌 Acknowledgements
+- Google GenAI program  
+- Kaggle notebook environment  
+- OpenAI ecosystem  
+
