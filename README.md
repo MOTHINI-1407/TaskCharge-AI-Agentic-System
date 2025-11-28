@@ -59,8 +59,8 @@ The full Kaggle notebook used for analysis, development, and evaluation is inclu
 ---
 
 ## 📂 Dataset
-Dataset used in this capstone project can be found on Kaggle.  
-(Insert your Kaggle dataset link here)
+Dataset used in this capstone project can be found on Kaggle:  
+[Click here to access the dataset](https://www.kaggle.com/datasets/mothini/taskchargeai-submition-package)
 
 ---
 
