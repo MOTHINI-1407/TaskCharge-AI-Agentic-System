@@ -1,6 +1,6 @@
 # TaskCharge AI — Agentic Automation System
 
-### 🚀 Google GenAI Capstone Project (2024–25)
+### 🚀 Google GenAI Capstone Project 2025
 This project was created as part of the Google Generative AI Capstone Challenge.  
 It showcases an end-to-end agentic workflow system using LLM reasoning, memory, tool calling, and automation.
 
