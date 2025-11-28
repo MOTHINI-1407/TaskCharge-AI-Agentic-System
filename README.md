@@ -45,7 +45,9 @@ TaskCharge-AI/
 - **Workflow Controller** → Orchestrates the steps  
 - **I/O Handlers** → Manage data and responses  
 
-(Add your diagram here if you have one.)
+
+## 🖼 Architecture Diagram
+![Architecture](Taskchargeai architecture diagram.png)
 
 ---
 
