@@ -47,7 +47,7 @@ TaskCharge-AI/
 
 
 ## 🖼 Architecture Diagram
-![Architecture]([Taskchargeai_architecture_diagram.png](https://github.com/MOTHINI-1407/TaskCharge-AI-Agentic-System/blob/main/Taskchargeai%20architecture%20diagram.png?raw=true))
+![Architecture](https://github.com/MOTHINI-1407/TaskCharge-AI-Agentic-System/blob/main/Taskchargeai%20architecture%20diagram.png?raw=true)
 
 ---
 
